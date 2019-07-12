@@ -9,7 +9,7 @@ This client program should run on a screen device.
 1. Display the provided advertisements as a queue.
 2. Listen to server events for Adding/Updating/Removing advertisements, and process accordingly.
 
-This client should be configured with the device and server information first to successfully run. If it's not configured it'll show a wizard to enter these configurations.
+This client should be configured with the device and server information first to successfully run. If it's not configured it'll show a wizard to enter these configurations on startup.
 
 ## Setup
 
